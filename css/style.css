@@ -1,0 +1,46 @@
+body{
+  Background-color :black;
+  color: white;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif ;
+   
+}
+
+h1{
+font-size: 400%;
+text-align: center;
+}
+
+h2{text-decoration: underline ;
+font-size: 200%;}
+h3{
+  text-decoration: underline;
+    font-size: 150%;
+}
+
+.ST{
+  font-style:italic ;
+  color: #808080;
+}
+
+img{
+  margin-left:18% ;
+  width: 550px;
+}
+
+iframe{
+  margin-left: 18%;
+}
+figcaption{
+  margin-left: 18%;
+}
+#MRG{
+  margin-left: 18%;
+}
+
+
+
+
+
+
+
+
